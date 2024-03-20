@@ -8,20 +8,25 @@ qt6_add_executable(helloworld
     main.cpp
 )
 
+# 匹配文件
+# file(GLOB SOURCE_FILE ${PROJECT_SOURCE_DIR}/src/*.cpp)
+
 target_link_libraries(helloworld PRIVATE 
-    businesslogic
-    Qt6::Widgets
+businesslogic
+Qt6::Widgets
 )
 
+# file(GLOB RESOURCE_FILE ${PROJECT_SOURCE_DIR}/resouce/*.png)
 # qt_add_resources(helloworld imageresources
 #     PREFIX "/images"
-#     FILES logo.png splashscreen.png
+#     FILES OIP.png choose_all.png
 # )
 
 # $ cmake --build . --target update_translations
 # $ cmake --build . --target release_translations
-# qt_add_translations(helloworld
-#     TS_FILES helloworld_de.ts helloworld_fr.ts
+# file(GLOB IMAGE_FILES ${PROJECT_SOURCE_DIR}/translation/*.png)
+# qt6_add_translations(helloworld
+#     TS_FILES ${IMAGE_FILES}
 # )
 
 set_target_properties(helloworld PROPERTIES

@@ -1,6 +1,10 @@
 #include <bussinesslogic.h>
-int main()
+#include <QApplication>
+#include "Mainwindow.h"
+int main(int argc, char **argv)
 {
-    SignalsChannals sc;
-    sc.echoHello("ni hao");
+    QApplication a(argc, argv);
+    Mainwindow m;
+    m.show();
+    a.exec();
 }
