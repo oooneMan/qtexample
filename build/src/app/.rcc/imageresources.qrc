@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="OIP.png">/Users/chenjames/Desktop/git/yqgit/qtexample/src/app/OIP.png</file>
+    <file alias="choose_all.png">/Users/chenjames/Desktop/git/yqgit/qtexample/src/app/choose_all.png</file>
+  </qresource>
+</RCC>
+

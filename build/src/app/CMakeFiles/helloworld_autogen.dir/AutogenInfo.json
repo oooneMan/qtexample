@@ -1,0 +1,74 @@
+{
+	"BUILD_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample/src/app",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/Cellar/cmake/3.21.3/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/Users/chenjames/Desktop/git/yqgit/qtexample/src/app/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample",
+	"DEP_FILE" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "helloworld_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/chenjames/Desktop/git/yqgit/qtexample/src/businesslogic",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtCore.framework",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtCore.framework/Headers",
+		"/Users/chenjames/Qt/6.2.4/macos/mkspecs/macx-clang",
+		"/Users/chenjames/Qt/6.2.4/macos/include",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtWidgets.framework",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtWidgets.framework/Headers",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtGui.framework",
+		"/Users/chenjames/Qt/6.2.4/macos/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/Cellar/cmake/3.21.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/helloworld_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/chenjames/Qt/6.2.4/macos/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/chenjames/Qt/6.2.4/macos/./libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/helloworld_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/chenjames/Desktop/git/yqgit/qtexample/src/app/main.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,12 @@
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/CMakeFiles/rebuild_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/CMakeFiles/edit_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/rebuild_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/edit_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/helloworld.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/helloworld_autogen_timestamp_deps.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/CMakeFiles/helloworld_autogen.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/CMakeFiles/rebuild_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/CMakeFiles/edit_cache.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/CMakeFiles/businesslogic.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/CMakeFiles/businesslogic_autogen_timestamp_deps.dir
+/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/CMakeFiles/businesslogic_autogen.dir

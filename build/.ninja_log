@@ -1,0 +1,18 @@
+# ninja log v5
+0	578	1710952908440051432	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/businesslogic_autogen/mocs_compilation.cpp	3169e84abf230f58
+0	578	1710952908440051432	src/businesslogic/businesslogic_autogen/mocs_compilation.cpp	3169e84abf230f58
+0	578	1710952908440051432	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/businesslogic/businesslogic_autogen/timestamp	3169e84abf230f58
+1282	1312	1710952909177314756	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/timestamp	515ef6ca4af8806
+0	578	1710952908440051432	src/businesslogic/businesslogic_autogen/timestamp	3169e84abf230f58
+579	1210	1710952909074221334	src/businesslogic/CMakeFiles/businesslogic.dir/bussinesslogic.cpp.o	e7577ff14eba8483
+1212	1282	1710952909152122000	src/businesslogic/libbusinesslogic.a	9219b2d4e3809f76
+1282	1312	1710952909177314756	src/app/helloworld_autogen/mocs_compilation.cpp	515ef6ca4af8806
+1282	1312	1710952909177314756	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/mocs_compilation.cpp	515ef6ca4af8806
+1282	1312	1710952909177314756	src/app/helloworld_autogen/timestamp	515ef6ca4af8806
+579	1212	1710952909075289052	src/businesslogic/CMakeFiles/businesslogic.dir/businesslogic_autogen/mocs_compilation.cpp.o	883f5d111f5049d5
+1312	1329	1710952909197569610	src/app/CMakeFiles/helloworld.dir/helloworld_autogen/mocs_compilation.cpp.o	1b90ebb49f908085
+14	38	1710952944446241081	src/app/helloworld_autogen/timestamp	515ef6ca4af8806
+14	38	1710952944446241081	src/app/helloworld_autogen/mocs_compilation.cpp	515ef6ca4af8806
+14	38	1710952944446241081	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/timestamp	515ef6ca4af8806
+14	38	1710952944446241081	/Users/chenjames/Desktop/git/yqgit/qtexample/build/src/app/helloworld_autogen/mocs_compilation.cpp	515ef6ca4af8806
+9	690	1710952975105636716	src/app/CMakeFiles/helloworld.dir/main.cpp.o	4bb2c22c756009ec
